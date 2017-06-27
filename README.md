@@ -1,7 +1,8 @@
 # hello-world
 test
 
-Bon, eh bien il faut écrire des trucs **en gras par exemple** 
+Bon, eh bien il faut écrire des trucs **en gras par exemple** *ou en itallique* *__ou en gras itallique__*
+<h1>
 
-# c'est un <h1> tag
+# c'est un tag
 '<ou autre chose>'
